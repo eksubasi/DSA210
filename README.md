@@ -19,7 +19,7 @@ The main objective of this project is to analyze how player ratings influence th
 
 ### Motivation
 
-Basketball is a big passion of mine, and I find watching it so exciting. My favorite is especially NBA, given its star players and breathtaking matches. However I've often wondered: Do these stars truly earn their salaries? Or do lesser-known players deliver more value for their cost? This project aims find a correlation between their costs and ratings to uncover who's worth their contract
+Basketball is a big passion of mine, and I find watching it so exciting. My favorite is especially NBA, given its star players and breathtaking matches. However I've often wondered: Do these stars truly earn their salaries? Or do lesser-known players deliver more value for their cost? This project aims find a correlation between their costs and ratings to uncover who's worth their contract.
 
 ---
 
