@@ -27,9 +27,7 @@ Basketball is a big passion of mine, and I find watching it so exciting. My favo
 
 *Basketball Reference* - provides detailed player statistics for the selected seasons namely the ones mentioned in objectives, and also includes other specific metrics.
 
-*Spotrac* - offers the official player contracts and their annual salaries for each year along with team spending and salary cap details.
-
-*Kaggle* - contains both player statistics and salary information, easier to combine and read through.
+*Kaggle* - offers the official player contracts and their annual salaries for each year along with team spending and salary cap details.
 
 ---
 
