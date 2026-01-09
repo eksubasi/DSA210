@@ -55,5 +55,4 @@ Python Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 ### References
 
 - Player and team statistics database - Basketball Reference
-- NBA players contract and salary data - Spotrac
-- Combined datasets for each - Kaggle
+- Player salaries data - Kaggle

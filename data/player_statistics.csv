@@ -40,7 +40,7 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 39,Goga Bitadze,25,C,1430,11.7,3.4,1.2,2.5,1.8,12.6,bitadgo01
 40,Bismack Biyombo,32,C,528,10.8,2.1,1.1,1.6,1.8,9.8,biyombi01
 41,Anthony Black,21,PG,1887,4.4,4.6,1.6,0.9,2.7,14.0,blackan01
-42,Bogdan Bogdanović,32,SG,1348,4.2,3.9,1.1,0.3,2.0,15.6,bogdabo01
+42,Bogdan Bogdanovic,32,SG,1348,4.2,3.9,1.1,0.3,2.0,15.6,bogdabo01
 43,Bol Bol,25,PF,448,8.4,1.8,0.7,2.0,1.6,19.6,bolbo01
 44,Adem Bona,21,C,905,9.7,1.1,1.0,2.7,2.4,13.4,bonaad01
 45,Devin Booker,28,SG,2795,3.9,6.8,0.9,0.2,2.8,24.8,bookede01
@@ -71,7 +71,7 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 70,Jamal Cain,25,SF,502,6.1,1.6,1.6,0.6,1.6,14.1,cainja01
 71,Kentavious Caldwell-Pope,31,SG,2279,2.7,2.1,1.6,0.5,1.0,10.6,caldwke01
 72,Toumani Camara,24,PF,2548,6.4,2.5,1.6,0.7,1.5,12.5,camarto01
-73,Vlatko Čančar,27,PF,136,8.5,2.4,0.8,0.5,2.9,6.4,cancavl01
+73,Vlatko Cancar,27,PF,136,8.5,2.4,0.8,0.5,2.9,6.4,cancavl01
 74,Clint Capela,30,C,1176,14.4,1.9,1.0,1.6,1.4,14.9,capelca01
 75,Branden Carlson,25,C,246,7.9,2.0,0.7,3.1,1.0,17.9,carlsbr01
 76,Bub Carrington,19,PG,2458,5.0,5.3,0.8,0.3,2.1,11.8,carrica01
@@ -121,13 +121,13 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 120,JD Davison,22,PG,93,5.0,5.0,1.9,0.4,5.0,12.8,davisjd01
 121,RayJ Dennis,23,PG,70,6.2,7.2,3.6,1.0,2.6,15.4,dennira01
 122,DeMar DeRozan,35,SF,2768,3.9,4.4,0.8,0.4,1.4,22.2,derozde01
-123,Moussa Diabaté,23,C,1241,12.7,1.6,1.3,1.2,1.8,11.7,diabamo01
+123,Moussa Diabate,23,C,1241,12.7,1.6,1.3,1.2,1.8,11.7,diabamo01
 124,Gradey Dick,21,SG,1587,4.4,2.2,1.1,0.2,1.9,17.6,dickgr01
 125,Ousmane Dieng,21,C,405,7.2,2.8,1.5,0.6,1.6,12.6,diengou01
 126,Rob Dillingham,20,PG,516,3.5,6.8,1.4,0.1,3.7,15.3,dilliro01
 127,Spencer Dinwiddie,31,PG,2136,3.5,5.9,1.2,0.3,1.7,14.7,dinwisp01
 128,Donte DiVincenzo,28,SG,1606,5.1,5.0,1.6,0.4,2.2,16.2,divindo01
-129,Luka Dončić,25,PG,1769,8.3,7.8,1.8,0.4,3.6,28.7,doncilu01
+129,Luka Doncic,25,PG,1769,8.3,7.8,1.8,0.4,3.6,28.7,doncilu01
 130,Luguentz Dort,25,SF,2073,5.1,2.0,1.4,0.7,0.9,12.5,dortlu01
 131,Ayo Dosunmu,25,SG,1394,4.2,5.4,1.1,0.5,1.8,14.6,dosunay01
 132,Jeff Dowtin Jr.,27,PG,621,3.5,4.5,1.4,0.7,0.9,16.5,dowtije01
@@ -254,7 +254,7 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 253,Keldon Johnson,25,SF,1838,7.3,2.4,1.0,0.4,1.5,19.2,johnske04
 254,Keon Johnson,22,SG,1925,5.6,3.3,1.5,0.6,2.2,15.7,johnske07
 255,Keshad Johnson,23,SF,98,10.3,1.5,1.8,1.5,1.5,15.8,johnske10
-256,Nikola Jokić,29,C,2571,12.5,10.0,1.8,0.6,3.2,29.0,jokicni01
+256,Nikola Jokic,29,C,2571,12.5,10.0,1.8,0.6,3.2,29.0,jokicni01
 257,Colby Jones,22,SG,515,6.1,3.1,1.8,0.9,1.6,11.0,jonesco02
 258,Derrick Jones Jr.,27,SF,1873,5.1,1.2,1.5,0.6,1.3,15.0,jonesde02
 259,Dillon Jones,23,SF,551,7.9,3.8,1.0,0.3,1.8,8.8,jonesdi01
@@ -267,7 +267,7 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 266,Tyus Jones,28,PG,2174,3.2,7.1,1.1,0.1,1.5,13.7,jonesty01
 267,DeAndre Jordan,36,C,691,14.8,2.8,0.8,1.4,2.1,10.9,jordade01
 268,Cory Joseph,33,PG,612,4.4,4.2,1.5,0.2,1.1,10.4,josepco01
-269,Nikola Jović,21,PF,1156,5.6,4.1,1.2,0.4,1.9,15.4,jovicni01
+269,Nikola Jovic,21,PF,1156,5.6,4.1,1.2,0.4,1.9,15.4,jovicni01
 270,Johnny Juzang,23,SG,1270,5.2,1.9,1.1,0.2,1.0,16.2,juzanjo01
 271,Yuki Kawamura,23,PG,93,4.6,7.4,0.8,0.0,1.9,13.9,kawamyu01
 272,Kylor Kelley,27,C,126,11.1,1.4,0.3,0.9,1.1,9.7,kelleky01
@@ -286,7 +286,7 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 285,Vit Krejci,24,PG,1153,4.9,4.6,1.1,0.8,1.6,12.9,krejcvi01
 286,Jonathan Kuminga,22,PF,1144,6.8,3.3,1.2,0.7,2.2,22.6,kuminjo01
 287,Kyle Kuzma,29,PF,1936,6.9,2.8,0.7,0.4,2.7,17.9,kuzmaky01
-288,Skal Labissière,28,PF,12,9.0,3.0,0.0,0.0,0.0,15.0,labissk01
+288,Skal Labissiere,28,PF,12,9.0,3.0,0.0,0.0,0.0,15.0,labissk01
 289,Jock Landale,29,C,500,9.9,2.7,0.9,0.7,1.5,14.4,landajo01
 290,Jake LaRavia,23,PF,1349,6.9,4.2,1.7,0.6,2.3,12.2,laravja01
 291,Pelle Larsson,23,SG,782,4.2,3.0,1.5,0.3,1.1,11.6,larsspe01
@@ -319,7 +319,7 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 318,Tyrese Martin,25,SG,1315,6.0,3.3,0.9,0.2,2.0,14.3,martity01
 319,Garrison Mathews,28,SG,830,3.8,2.6,1.1,0.7,1.3,15.3,mathega01
 320,Bennedict Mathurin,22,SF,2149,6.4,2.3,0.8,0.4,2.3,19.4,mathube01
-321,Karlo Matković,23,PF,791,9.5,2.1,1.0,1.9,2.0,14.8,matkoka01
+321,Karlo Matkovic,23,PF,791,9.5,2.1,1.0,1.9,2.0,14.8,matkoka01
 322,Tyrese Maxey,24,PG,1960,3.2,5.8,1.7,0.4,2.3,25.1,maxeyty01
 323,Miles McBride,24,SG,1593,3.6,4.2,1.5,0.4,0.9,13.8,mcbrimi01
 324,Jared McCain,20,SG,592,3.4,3.6,0.9,0.0,2.3,21.4,mccaija01
@@ -335,7 +335,7 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 334,Jack McVeigh,28,PF,43,4.2,0.8,0.0,1.7,1.7,11.7,mcveija01
 335,De'Anthony Melton,26,SG,121,6.0,5.1,2.1,0.6,3.0,18.4,meltode01
 336,Sam Merrill,28,SG,1401,4.0,2.8,1.4,0.4,0.9,13.1,merrisa01
-337,Vasilije Micić,31,PG,785,4.1,5.9,0.7,0.0,3.5,12.3,micicva01
+337,Vasilije Micic,31,PG,785,4.1,5.9,0.7,0.0,3.5,12.3,micicva01
 338,Khris Middleton,33,SF,843,5.9,6.4,1.5,0.3,2.4,18.8,middlkh01
 339,Brandon Miller,22,SF,924,5.1,3.8,1.1,0.8,3.0,22.1,millebr02
 340,Emanuel Miller,24,PF,25,11.5,2.9,1.4,0.0,0.0,14.4,milleem01
@@ -377,7 +377,7 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 376,Zeke Nnaji,24,PF,608,5.3,1.4,1.5,2.3,0.8,10.9,nnajize01
 377,Miles Norris,24,PF,35,9.3,0.0,2.1,1.0,0.0,7.2,norrimi01
 378,Jaylen Nowell,25,SG,168,4.3,3.9,0.2,0.9,1.7,14.4,nowelja01
-379,Jusuf Nurkić,30,C,1063,13.5,3.9,1.4,1.2,3.3,15.3,nurkiju01
+379,Jusuf Nurkic,30,C,1063,13.5,3.9,1.4,1.2,3.3,15.3,nurkiju01
 380,Royce O'Neale,31,SF,1837,6.8,3.2,1.3,0.7,1.3,13.3,onealro01
 381,Jahlil Okafor,29,C,3,12.0,12.0,0.0,0.0,0.0,0.0,okafoja01
 382,Chuma Okeke,26,PF,196,8.6,2.8,0.9,0.7,0.6,9.7,okekech01
@@ -404,7 +404,7 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 403,Kevin Porter Jr.,24,SG,1482,6.8,6.2,2.0,0.3,3.3,18.7,porteke02
 404,Michael Porter Jr.,26,SF,2593,7.5,2.3,0.7,0.5,1.4,19.4,portemi01
 405,Bobby Portis,29,PF,1244,11.9,3.0,1.0,0.8,1.6,19.7,portibo01
-406,Kristaps Porziņģis,29,C,1210,8.4,2.6,0.9,1.9,1.6,24.3,porzikr01
+406,Kristaps Porzingis,29,C,1210,8.4,2.6,0.9,1.9,1.6,24.3,porzikr01
 407,Quinten Post,24,PF,686,7.8,2.9,0.8,0.9,1.7,17.8,postqu01
 408,Micah Potter,26,C,705,8.4,1.6,0.7,0.7,1.6,8.3,pottemi01
 409,Dwight Powell,33,C,551,7.7,3.6,1.2,1.4,1.2,7.4,poweldw01
@@ -416,7 +416,7 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 415,Trevelin Queen,27,SG,430,4.5,3.2,2.6,0.8,1.8,12.7,queentr01
 416,Neemias Queta,25,C,863,9.8,1.9,0.8,1.8,1.7,12.9,quetane01
 417,Immanuel Quickley,25,PG,918,4.6,7.5,0.9,0.2,2.3,22.1,quickim01
-418,Lester Quiñones,24,SG,183,3.7,4.7,0.6,0.4,2.8,16.9,quinole01
+418,Lester Quinones,24,SG,183,3.7,4.7,0.6,0.4,2.8,16.9,quinole01
 419,Julius Randle,30,PF,2226,7.9,5.2,0.8,0.3,3.2,20.8,randlju01
 420,Duop Reath,28,C,469,7.1,2.0,0.9,1.1,1.2,14.9,reathdu01
 421,Austin Reaves,26,SG,2550,4.6,5.9,1.1,0.3,2.5,20.8,reaveau01
@@ -442,15 +442,15 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 441,D'Angelo Russell,28,PG,1480,3.9,7.2,1.4,0.6,2.6,17.8,russeda01
 442,Matt Ryan,27,SF,68,4.2,1.6,1.1,0.0,1.6,14.8,ryanma01
 443,Domantas Sabonis,28,C,2429,14.4,6.3,0.7,0.4,3.0,19.8,sabondo01
-444,Tidjane Salaün,19,PF,1244,8.1,2.1,0.8,0.4,1.7,10.2,salauti01
+444,Tidjane Salaun,19,PF,1244,8.1,2.1,0.8,0.4,1.7,10.2,salauti01
 445,Adama Sanogo,22,C,21,10.3,1.7,0.0,0.0,1.7,13.7,sanogad01
 446,Gui Santos,22,PF,762,8.1,3.8,1.2,0.5,2.0,10.7,santogu01
-447,Dario Šarić,30,C,210,8.6,3.9,1.2,0.2,2.6,9.6,saricda01
+447,Dario Saric,30,C,210,8.6,3.9,1.2,0.2,2.6,9.6,saricda01
 448,Alex Sarr,19,C,1814,8.6,3.2,0.9,2.0,2.3,17.2,sarral01
 449,Marcus Sasser,24,PG,811,3.1,5.9,1.6,0.2,2.4,16.6,sassema01
 450,Baylor Scheierman,24,SG,384,6.1,3.1,1.6,0.2,1.1,10.6,scheiba01
-451,Dennis Schröder,31,PG,2105,3.4,6.9,1.1,0.2,2.4,16.8,schrode01
-452,Alperen Şengün,22,C,2395,11.8,5.6,1.3,0.9,2.9,21.8,sengual01
+451,Dennis Schroder,31,PG,2105,3.4,6.9,1.1,0.2,2.4,16.8,schrode01
+452,Alperen Sengun,22,C,2395,11.8,5.6,1.3,0.9,2.9,21.8,sengual01
 453,Brice Sensabaugh,21,SF,1432,5.3,2.8,1.2,0.2,2.7,19.4,sensabr01
 454,Collin Sexton,26,SG,1758,3.5,5.4,1.0,0.1,3.3,23.7,sextoco01
 455,Landry Shamet,27,SG,762,2.9,1.3,1.1,0.1,1.0,13.5,shamela01
@@ -503,7 +503,7 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 502,Jacob Toppin,24,SF,76,7.1,2.8,0.9,0.0,1.4,10.9,toppija01
 503,Obi Toppin,26,PF,1545,7.4,3.0,1.1,0.7,1.6,19.4,toppiob01
 504,Karl-Anthony Towns,29,C,2517,13.2,3.2,1.0,0.7,2.7,25.2,townska01
-505,Armel Traoré,22,SF,67,8.1,0.5,2.1,1.1,1.6,7.5,armeltr01
+505,Armel Traore,22,SF,67,8.1,0.5,2.1,1.1,1.6,7.5,armeltr01
 506,Luke Travers,23,SG,88,8.2,3.3,0.4,0.4,3.3,4.9,travelu01
 507,Gary Trent Jr.,26,SG,1893,3.2,1.7,1.4,0.1,0.8,15.7,trentga02
 508,Oscar Tshiebwe,25,C,255,17.2,1.3,1.8,0.1,1.4,15.1,tshieos01
@@ -512,12 +512,12 @@ Rk,Player,Age,Pos,MP,TRB,AST,STL,BLK,TOV,PTS,Player-additional
 511,Hunter Tyson,24,PF,400,7.0,1.8,0.9,0.5,1.3,12.1,tysonhu01
 512,Jaylon Tyson,22,SG,453,7.6,3.5,1.0,0.2,2.1,13.3,tysonja01
 513,Stanley Umude,25,SG,86,7.1,1.7,1.3,2.5,1.3,6.3,umudest01
-514,Jonas Valančiūnas,32,C,1524,14.8,3.9,0.9,1.1,2.8,19.9,valanjo01
+514,Jonas Valanciunas,32,C,1524,14.8,3.9,0.9,1.1,2.8,19.9,valanjo01
 515,Jarred Vanderbilt,25,PF,581,11.3,2.5,2.2,0.6,1.8,9.1,vandeja01
 516,Fred VanVleet,30,PG,2111,3.8,5.7,1.6,0.4,1.5,14.4,vanvlfr01
 517,Devin Vassell,24,SG,1983,4.6,3.3,1.5,0.6,1.6,18.9,vassede01
 518,Gabe Vincent,28,PG,1527,2.2,2.3,1.2,0.3,1.0,10.8,vincega01
-519,Nikola Vučević,34,C,2278,11.6,4.0,1.0,0.8,1.9,21.3,vucevni01
+519,Nikola Vucevic,34,C,2278,11.6,4.0,1.0,0.8,1.9,21.3,vucevni01
 520,Tristan Vukcevic,21,C,513,9.1,2.7,0.8,1.6,2.9,23.2,vukcetr01
 521,Dean Wade,28,PF,1252,7.2,2.2,1.2,0.6,0.6,9.2,wadede01
 522,Franz Wagner,23,SF,2023,6.1,5.1,1.3,0.4,2.5,25.8,wagnefr01
