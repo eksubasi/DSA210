@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project seeks to analyze the performance metrics and annual salaries of NBA players to determine who is underpaid or overpaid. It focuses on key statistical factors such as points, rebounds, assists, turnovers, and playtime, to then compare it with their salaries. By modeling how performance translates into pay, this project aims to reveal which players provide the best value for their cost and whether NBA salaries accurately reflect on-court impact.
+This project seeks to analyze the performance metrics and annual salaries of NBA players to determine who is underpaid or overpaid. It focuses on key statistical factors such as points, rebounds, assists, turnovers, and playtime, to then compare it with their salaries. By modeling how performance translates into pay, this project aims to reveal which players provide the best value for their cost and whether NBA salaries accurately reflect on-court impact. The help of ChatGPT is also used in this project to get a broader understanding and to transfer the foundings of this project smoother, usually used in getting an idea on what to write on markdowns.
 
 ---
 
